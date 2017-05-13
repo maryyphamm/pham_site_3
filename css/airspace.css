@@ -262,7 +262,7 @@ font header .navbar-default .navbar-nav li a:hover {
   margin-bottom: 20px;
 }
 #feature .btn-view-works {
-  background: #655E7A;
+  background: #000000;
   color: #fff;
   padding: 10px 20px;
 }
@@ -358,7 +358,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Slider-work Start
 --*/
 #global-header {
-  background: url("../img/slider-bg.jpg") no-repeat;
+  background: url("") no-repeat;
   background-size: cover;
   padding-top: 150px;
   padding-bottom: 107px;
@@ -374,7 +374,7 @@ font header .navbar-default .navbar-nav li a:hover {
   right: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to left, #928dab, #1f1c2c 70%);
+  background: linear-gradient(to left, #000000, #000000 70%);
   opacity: 0.8;
 }
 #global-header .block {
@@ -474,6 +474,7 @@ font header .navbar-default .navbar-nav li a:hover {
   position: relative;
 }
 #portfolio-work .block .portfolio-contant ul li:hover .overly {
+  border: 1px solid #999999;
   opacity: 1;
 }
 #portfolio-work .block .portfolio-contant ul li:hover .position-center {
@@ -678,7 +679,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #contact-form .block button {
   width: 100%;
   height: 60px;
-  background: #47424C;
+  background: #000000;
   border: none;
   color: #fff;
   font-family: 'Open Sans', sans-serif;
